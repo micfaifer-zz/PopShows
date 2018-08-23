@@ -1,0 +1,6 @@
+module Pods_PopShows {
+  umbrella header "Pods-PopShows-umbrella.h"
+
+  export *
+  module * { export * }
+}
